@@ -16,3 +16,6 @@ The output goes as followed
  
  {'title': 'NASA To Host Briefing on InSight, Mars Reconnaissance Orbiter Findings',
   'preview': 'Scientists from two Mars missions will discuss how they combined images and data for a major finding on the Red Planet.'}
+
+From the website we also extract the martian temperature to show the following plot
+![Untitled](https://github.com/msills30/webscrape_mars/assets/127795370/527f8be7-da4d-4185-b73f-1c062c4e9738)
